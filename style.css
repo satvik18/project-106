@@ -1,0 +1,40 @@
+body {
+    font-family: 'Redressed', cursive;
+    background-color:coral;
+}
+
+.header_div{
+    background:cyan;
+    color:darkblue;
+}
+
+.header_div p{
+    font-family: 'Redressed', cursive;
+    color: black;
+    letter-spacing: 2px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.main_div button{
+
+    font-family: 'Redressed', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: darkgreen;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: blueviolet;
+    line-height:3 ;
+    text-align: center;
+    text-shadow: 5px 5px 5px khaki;
+    
+}
